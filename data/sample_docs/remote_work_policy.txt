@@ -1,0 +1,14 @@
+Remote Work Policy
+
+Employees may work remotely up to three days per week, subject to manager approval.
+Fully remote arrangements require VP-level sign-off and are reviewed every six months.
+
+Equipment: the company provides a laptop, monitor, and a one-time $300 home office
+stipend for remote employees. Additional equipment requests go through the IT
+helpdesk ticketing system.
+
+Core hours: all employees, remote or in-office, must be reachable between 11:00 AM
+and 3:00 PM in their local time zone for meetings and collaboration.
+
+Security: remote employees must use the company VPN when accessing internal systems
+and must enable full-disk encryption on any device used for work.

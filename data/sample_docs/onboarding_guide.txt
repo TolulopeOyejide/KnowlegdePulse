@@ -1,0 +1,15 @@
+New Hire Onboarding Guide
+
+Day one: new hires receive their laptop and accounts are provisioned by 9:00 AM.
+IT will schedule a 30-minute setup call to configure email, VPN, and internal tools.
+
+Week one: new hires complete mandatory compliance training covering data privacy,
+information security, and code of conduct. Training must be finished within five
+business days of the start date.
+
+Benefits enrollment: health insurance, dental, and 401(k) enrollment must be
+completed within 30 days of the hire date through the benefits portal. Missing
+this window means waiting until the next open enrollment period.
+
+Probation period: all new hires have a 90-day probation period, during which
+managers conduct check-ins at 30, 60, and 90 days.

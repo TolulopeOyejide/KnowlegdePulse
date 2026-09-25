@@ -1,0 +1,32 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# LangChain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Document/website loaders (all open source)
+pypdf              # PDF parsing
+docx2txt           # .docx parsing
+beautifulsoup4     # HTML parsing for WebBaseLoader
+lxml               # fast HTML/XML parser backend
+
+# Retrieval (TF-IDF, via scikit-learn — offline, no model download)
+scikit-learn
+
+# Ollama HTTP calls
+requests
+
+# ---------------------------------------------------------------------------
+# Optional: only needed if you uncomment the OpenAI backup in
+# backend/generation.py
+# langchain-openai
+# openai
+# ---------------------------------------------------------------------------
+
+# Optional: only needed for slack_bot/bot.py
+# slack_bolt
